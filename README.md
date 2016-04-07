@@ -1,2 +1,3 @@
 # random-thing
-Some random thingy
+
+First change to the readme
